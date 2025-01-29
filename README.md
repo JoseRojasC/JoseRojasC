@@ -30,6 +30,7 @@
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S/4HANA-%23007DB8.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%230066C2.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JoseRojasC&theme=react&show_icons=true&include_all_commits=true" />
@@ -40,5 +41,4 @@
 
 [JoseRojasC](https://github.com/JoseRojasC)
 
-Última edición: 29/01/2025
 
