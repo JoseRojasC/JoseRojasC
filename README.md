@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jose Rojas</h1>
-<h3 align="center">IT Systems Administrator | Security & Audit Enthusiast | BI & Data Analysis</h3>
+<h1 align="center">Hola 👋, soy José Rojas</h1>
+<h3 align="center">Gestor de TI | Seguridad de la Información | Análisis y Auditoría IT</h3>
 
-- 🔭 I’m currently working on **IT Security & Business Intelligence**
+- 🔭 Actualmente trabajando en **Gestión IT, Seguridad de la Información & Auditoría IT**
 
-- 🌱 I’m currently learning **ISO 27001, BI Analysis & Cloud Computing**
+- 🌱 Aprendiendo sobre **ISO 27001, Análisis de Datos & Cloud Computing**
 
-- 👯 I’m looking to collaborate on **IT Security, System Administration & Data Analytics projects**
+- 👯 Busco colaborar en proyectos de **Ciberseguridad, Administración de Sistemas & Análisis de Datos**
 
-- 📫 How to reach me: **jose.rojas.contact@gmail.com**
+- 📫 Contacto: **joserojas.cartes@gmail.com**
 
-- ⚡ What I like to do: **I enjoy technology, cybersecurity, cloud computing, and data-driven decision-making**
+- ⚡ Intereses: **Tecnología, Ciberseguridad, Cloud Computing y optimización de procesos IT**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conéctate conmigo:</h3>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josei-rojas-cartes/)
@@ -20,7 +20,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y Herramientas:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -35,20 +35,23 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://workspace.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Workspace" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sap.com/products/s4hana.html" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP S/4HANA" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_365_%282022%29.svg" alt="Microsoft 365" width="40" height="40"/> 
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
-  </a>
-  <a href="https://cloud.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/> 
   </a>
 </p>
 
@@ -60,3 +63,6 @@
 ------
 
 [JoseRojasC](https://github.com/JoseRojasC)
+
+Última edición: 29/01/2025
+
