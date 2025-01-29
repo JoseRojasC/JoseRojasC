@@ -1,15 +1,17 @@
 <h1 align="center">Hola 👋, soy José Rojas</h1>
-<h3 align="center">Gestor de TI | Seguridad de la Información | Análisis y Auditoría IT</h3>
+<h3 align="center">Gestor de TI | Seguridad de la Información | Auditoría TI | ITSM & Metodologías Ágiles</h3>
 
-- 🔭 Actualmente trabajando en **Gestión IT, Seguridad de la Información & Auditoría IT**
+📍 Desde **Chile**
 
-- 🌱 Aprendiendo sobre **ISO 27001, Análisis de Datos & Cloud Computing**
+- 🚀 Profesional en **gestión de TI, ciberseguridad y auditoría de sistemas**, con un enfoque en la mejora continua y la eficiencia operativa.
 
-- 👯 Busco colaborar en proyectos de **Ciberseguridad, Administración de Sistemas & Análisis de Datos**
+- 📊 Desarrollando habilidades en **ISO 27001, análisis de datos y computación en la nube** para fortalecer la seguridad y optimización de procesos.
+
+- 🔍 Experiencia en **administración de sistemas, ITSM y análisis de riesgos** para garantizar la continuidad operativa y el cumplimiento normativo.
 
 - 📫 Contacto: **joserojas.cartes@gmail.com**
 
-- ⚡ Intereses: **Tecnología, Ciberseguridad, Cloud Computing y optimización de procesos IT**
+- 💡 Enfoque en **innovación tecnológica, metodologías ágiles y estrategias para la transformación digital**.
 
 <h3 align="center">Conéctate conmigo:</h3>
 <div align="center">
@@ -20,17 +22,36 @@
   
 </div>
 
-# 💻 Lenguaje y Herramientas:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-%234285F4.svg?style=for-the-badge&logo=google-workspace&logoColor=white)
-![SAP S/4HANA](https://img.shields.io/badge/SAP%20S/4HANA-%23007DB8.svg?style=for-the-badge&logo=sap&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%230066C2.svg?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+### IT Management & Methodologies:
+&emsp;
+![ITIL](https://img.shields.io/badge/-ITIL-000?&logo=ITIL)
+![ITSM](https://img.shields.io/badge/-ITSM-000?&logo=ITSM)
+![Scrum](https://img.shields.io/badge/-Scrum-000?&logo=Scrum)
+![Agile](https://img.shields.io/badge/-Agile-000?&logo=Agile)
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-000?&logo=Google-Workspace)
+![SAP S/4HANA](https://img.shields.io/badge/-SAP%20S/4HANA-000?&logo=SAP)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-000?&logo=Microsoft)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=Power-BI)
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JoseRojasC&theme=react&show_icons=true&include_all_commits=true" />
@@ -38,7 +59,3 @@
 </p>
 
 ------
-
-[JoseRojasC](https://github.com/JoseRojasC)
-
-
