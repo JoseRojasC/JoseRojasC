@@ -5,7 +5,7 @@
 
 - 🚀 Profesional en **gestión de TI, ciberseguridad y auditoría de sistemas**, con un enfoque en la mejora continua y la eficiencia operativa.
 
-- 📊 Desarrollando habilidades en **ISO 27001, análisis de datos y computación en la nube** para fortalecer la seguridad y optimización de procesos.
+- 📊 Desarrollando habilidades en **ISO 27001, análisis de datos y cloud computing** para fortalecer la seguridad y optimización de procesos.
 
 - 🔍 Experiencia en **administración de sistemas, ITSM y análisis de riesgos** para garantizar la continuidad operativa y el cumplimiento normativo.
 
